@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Salary,JoiningDate,Status
+1,Alice,HR,50000,2019-01-01,Active
+2,Bob,Finance,60000,2019-06-30,Active
+3,Charlie,IT,75000,2019-12-27,Terminated
+4,David,IT,80000,2020-06-24,Active
+5,Eve,HR,52000,2020-12-21,On Leave
+6,Frank,Marketing,58000,2021-06-19,Active
+7,Grace,Finance,61000,2021-12-16,Terminated
+8,Hannah,HR,49000,2022-06-14,Active
+9,Ivy,IT,72000,2022-12-11,Active
+10,John,Marketing,57000,2023-06-09,On Leave
