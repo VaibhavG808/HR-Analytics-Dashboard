@@ -20,7 +20,7 @@ This project presents a professional HR Dashboard created using Power BI. It pro
 - Screenshot.png – Preview of the dashboard
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](Employee Insights Dashboard – HR Analytics.jpg)
 
 ## 📌 Insights & Features
 - KPI Cards for Total Employees, Average Salary, Tenure
