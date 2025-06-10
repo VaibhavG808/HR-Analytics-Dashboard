@@ -35,4 +35,4 @@ This dashboard can be used by HR teams to:
 
 ## 📬 Contact
 If you found this useful, connect with me on [LinkedIn](https://www.linkedin.com/in/vaibhav-ghatmal)
-<img src="https://github.com/vghatmal/https://github.com/VaibhavG808/HR-Analytics-Dashboard/blob/404bbe750d87d14ac750c186a44bb265e47a5490/Employee%20Insights%20Dashboard%20%E2%80%93%20HR%20Analytics.jpg">
+<img src="https://github.com/VaibhavG808/HR-Analytics-Dashboard/blob/404bbe750d87d14ac750c186a44bb265e47a5490/Employee%20Insights%20Dashboard%20%E2%80%93%20HR%20Analytics.jpg">
